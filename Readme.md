@@ -25,25 +25,25 @@
     <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=codbyVitorDaniel&show_icons=true&theme=transparent "
+    srcset="https://github-readme-stats.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=transparent "
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=codByBaraoVitor&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=VitorDanielRC&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=codbyVitorDaniel&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorDanielRC&show_icons=true" />
 </picture>
 </div>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codbyVitorDaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codbyVitorDaniel&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorDanielRC&theme=dark&hide_border=false" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codbyVitorDaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDanielRC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -70,9 +70,9 @@
 <!--Cobrinha-->
 <picture align="center">
     <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/codbyVitorDaniel/codbyVitorDaniel/output/github-contribution-grid-snake-dark.svg">
+        srcset="https://raw.githubusercontent.com/VitorDanielRC/VitorDanielRC/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/codbyVitorDaniel/codbyVitorDaniel/output/github-contribution-grid-snake-dark.svg">
+        srcset="https://raw.githubusercontent.com/VitorDanielRC/VitorDanielRC/output/github-contribution-grid-snake-dark.svg">
     <img align="center" alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/codbyVitorDaniel/codbyVitorDaniel/output/github-contribution-grid-snake.svg">
+        src="https://raw.githubusercontent.com/VitorDanielRC/VitorDanielRC/output/github-contribution-grid-snake.svg">
 </picture>  
