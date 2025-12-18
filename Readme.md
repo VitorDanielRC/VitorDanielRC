@@ -1,14 +1,3 @@
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ADEAEA&center=true&vCenter=true&width=800&lines=Programação+%7C+Cibersegurança;Python+%7C+Django+%7C+Segurança+da+Informação"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
-<br>
 
 <!-- Apresentação -->
 <div align="center">
