@@ -1,8 +1,8 @@
-<!-- Typing -->
+<!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ADEAEA&center=true&vCenter=true&width=750&lines=⊹+Programação+%7C+Cibersegurança+⊹;⊹+Back-end+%7C+Django+%7C+Segurança+⊹"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ADEAEA&center=true&vCenter=true&width=800&lines=Programação+%7C+Cibersegurança;Python+%7C+Django+%7C+Segurança+da+Informação"
       alt="Typing SVG"
     />
   </a>
@@ -16,7 +16,7 @@
     Olá! Meu nome é <strong>Vitor Daniel</strong> 👋 <br><br>
     Sou estudante de <strong>Engenharia de Software</strong>, com foco em
     <strong>Programação</strong> e <strong>Cibersegurança</strong>. <br><br>
-    Possuo experiência no desenvolvimento de sistemas utilizando
+    Possuo experiência no desenvolvimento de sistemas e APIs utilizando
     <strong>Python e Django</strong>, além de conhecimentos em
     <strong>HTML, CSS e JavaScript</strong>. <br><br>
     Meu interesse principal está em desenvolvimento back-end,
@@ -30,34 +30,34 @@
 ## 🎯 Objetivo Profissional
 
 - 🚀 Atuar como **Desenvolvedor Júnior** ou **Cibersegurança Júnior**
-- 🛡️ Trabalhar com **segurança de sistemas e aplicações**
-- ⚙️ Evoluir em **back-end, APIs, autenticação e controle de acesso**
-- 📚 Crescimento contínuo em **segurança da informação**
+- 🛡️ Trabalhar com segurança de sistemas e aplicações
+- ⚙️ Evoluir em back-end, APIs, autenticação e controle de acesso
+- 📚 Crescimento contínuo em segurança da informação
 
 ---
 
 ## 🔐 Cibersegurança & Programação
 
-- Fundamentos de **Segurança da Informação**
-- Prevenção de vulnerabilidades (**OWASP Top 10**)
+- Fundamentos de segurança da informação
+- Prevenção de vulnerabilidades (OWASP Top 10)
 - Autenticação, autorização e controle de permissões
 - Validação de dados e proteção contra ataques comuns
-- Desenvolvimento seguro com **Django**
+- Desenvolvimento seguro com Django
 
 ---
 
 ## 🛠️ Stack Técnica
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
 </div>
 
 ---
@@ -65,9 +65,18 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorDanielRC&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDanielRC&layout=compact&theme=dark" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VitorDanielRC&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDanielRC&layout=compact&theme=dark"
+    height="165"
+  />
 </div>
 
 ---
