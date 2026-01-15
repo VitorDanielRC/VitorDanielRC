@@ -1,52 +1,76 @@
-
 <!-- Apresentação -->
 <div align="center">
-  <h3>
-    Olá! Meu nome é <strong>Vitor Daniel</strong> 👋 <br><br>
-    Sou estudante de <strong>Engenharia de Software</strong>, com foco em
-    <strong>Programação</strong> e <strong>Cibersegurança</strong>. <br><br>
-    Possuo experiência no desenvolvimento de sistemas e APIs utilizando
-    <strong>Python e Django</strong>, além de conhecimentos em
-    <strong>HTML, CSS e JavaScript</strong>. <br><br>
-    Meu interesse principal está em desenvolvimento back-end,
-    lógica de programação, segurança da informação e construção
-    de aplicações seguras e bem estruturadas.
-  </h3>
+  <h2>👋 Olá! Eu sou o <strong>Vitor Daniel</strong></h2>
+
+  <p>
+    🎓 Estudante de <strong>Engenharia de Software</strong><br>
+    💻 Foco em <strong>Back-end</strong>, <strong>APIs</strong> e <strong>Cibersegurança</strong>
+  </p>
+
+  <p>
+    Atuo no desenvolvimento de sistemas e APIs utilizando
+    <strong>Python</strong> e <strong>Django</strong>, com atenção especial à
+    <strong>segurança</strong>, <strong>organização</strong> e
+    <strong>boas práticas de engenharia de software</strong>.
+  </p>
+
+  <p>
+    Tenho interesse em lógica de programação, segurança da informação
+    e construção de aplicações <strong>seguras, escaláveis e bem estruturadas</strong>.
+  </p>
 </div>
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-- 🚀 Atuar como **Desenvolvedor Júnior** ou **Cibersegurança Júnior**
-- 🛡️ Trabalhar com segurança de sistemas e aplicações
-- ⚙️ Evoluir em back-end, APIs, autenticação e controle de acesso
-- 📚 Crescimento contínuo em segurança da informação
+- 🚀 Atuar como **Desenvolvedor Back-end Júnior** ou **Cibersegurança Júnior**
+- 🛡️ Trabalhar com segurança de sistemas e aplicações web
+- ⚙️ Evoluir em APIs, autenticação, autorização e controle de acesso
+- 📚 Aprendizado contínuo em segurança da informação e engenharia de software
 
 ---
 
-## 🔐 Cibersegurança & Programação
+## 🔐 Cibersegurança & Desenvolvimento Seguro
 
-- Fundamentos de segurança da informação
-- Prevenção de vulnerabilidades (OWASP Top 10)
-- Autenticação, autorização e controle de permissões
+- Fundamentos de **Segurança da Informação**
+- Boas práticas de desenvolvimento seguro
+- Prevenção de vulnerabilidades (**OWASP Top 10**)
+- Autenticação e autorização (roles, permissões, JWT)
 - Validação de dados e proteção contra ataques comuns
-- Desenvolvimento seguro com Django
+- Aplicações seguras com **Django**
 
 ---
 
 ## 🛠️ Stack Técnica
 
+### ⚙️ Back-end
+- Python
+- Django
+- Django REST Framework
+- APIs REST
+
+### 🌐 Front-end
+- HTML5
+- CSS3
+- JavaScript
+
+### 🧠 Conceitos
+- Lógica de Programação
+- Programação Orientada a Objetos
+- Boas práticas de código
+- Controle de permissões e autenticação
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
 </div>
 
 ---
@@ -54,9 +78,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <picture>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </div>
 
 ---
