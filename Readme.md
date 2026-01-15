@@ -54,18 +54,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=VitorDanielRC&theme=dark"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDanielRC&layout=compact&theme=dark"
-    height="165"
-  />
+  <picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
 </div>
 
 ---
