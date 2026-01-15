@@ -1,45 +1,26 @@
-<!-- Apresentação -->
-  <h2>👋 Olá! Eu sou o <strong>Vitor Daniel</strong></h2>
+# Vitor Daniel Rosa Cabral
 
-  <p>
-    🎓 Estudante de <strong>Engenharia de Software</strong><br>
-    💻 Foco em <strong>Back-end</strong>, <strong>APIs</strong> e <strong>Cibersegurança</strong>
-  </p>
+## Software Engineering Student | Back-end & Cybersecurity
 
-  <p>
-    Desenvolvo sistemas e APIs com <strong>Python</strong> e <strong>Django</strong>,
-    priorizando <strong>segurança</strong>, <strong>organização</strong> e
-    <strong>boas práticas de engenharia de software</strong>.
-  </p>
+> Estudante de Engenharia de Software com foco em desenvolvimento **Back-end**, **APIs REST** e **Cibersegurança**.  
+> Comprometido com código limpo, aplicações seguras e boas práticas de engenharia de software.
 
-  <p>
-    Interesse em lógica de programação, segurança da informação e
-    construção de aplicações <strong>seguras e escaláveis</strong>.
-  </p>
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/VitorDanielRC?style=social)](https://github.com/VitorDanielRC)
+[![Profile Views](https://komarev.com/ghpvc/?username=VitorDanielRC&color=blue)](https://github.com/VitorDanielRC)
 
 ---
 
-## 🎯 Objetivo Profissional
-- 🚀 Desenvolvedor **Back-end Júnior** ou **Cibersegurança Júnior**
-- 🛡️ Segurança de sistemas e aplicações web
-- ⚙️ APIs, autenticação, autorização e controle de acesso
-- 📚 Evolução contínua em segurança da informação
+## 💼 Perfil Profissional
+
+- Desenvolvimento de sistemas e APIs com **Python e Django**
+- Criação de aplicações seguindo boas práticas de segurança
+- Implementação de autenticação, autorização e controle de permissões
+- Interesse em segurança da informação e prevenção de vulnerabilidades
+- Experiência acadêmica e prática com lógica de programação e backend
 
 ---
 
-## 🔐 Cibersegurança & Desenvolvimento Seguro
-- Fundamentos de Segurança da Informação  
-- Prevenção de vulnerabilidades (**OWASP Top 10**)  
-- Autenticação, autorização e permissões  
-- Validação de dados e proteção contra ataques  
-- Desenvolvimento seguro com **Django**
-
----
-
-## 🛠️ Stack Técnica
-
-<div align="center">
+## 💻 Stack Técnica
 
 ### ⚙️ Back-end
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -65,6 +46,53 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔐 API de Tarefas Segura (Django)
+API REST desenvolvida com **Django e Django REST Framework**, com autenticação, permissões e boas práticas de segurança.  
+**Tecnologias:** Python, Django, DRF, SQLite/PostgreSQL
+
+### 📊 Dashboard Web
+Dashboard em HTML, CSS e JavaScript para visualização de dados com gráficos e filtros dinâmicos.  
+**Tecnologias:** JavaScript, HTML, CSS
+
+### 🐍 Projetos Acadêmicos em Python
+Coleção de projetos focados em lógica, estruturas de dados e boas práticas de programação.  
+**Tecnologias:** Python
+
+*(adicione links reais quando quiser)*
+
+---
+
+## 🎓 Formação & Foco
+
+- 🎓 Bacharelado em **Engenharia de Software** (em andamento)
+- 🧠 Foco em Back-end, APIs e Segurança da Informação
+- 🔐 Estudo contínuo de OWASP Top 10 e desenvolvimento seguro
+- ⚙️ Interesse em autenticação, controle de acesso e arquitetura backend
+
+---
+
+## 🌱 Atualmente Estudando
+
+- Django REST Framework avançado
+- Segurança em aplicações web
+- APIs REST e autenticação (JWT)
+- Linux e Docker para ambientes de desenvolvimento
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vitor-daniel-a2627326a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -72,29 +100,20 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-  <!-- Linha 1: Stats + Streak -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorDanielRC&theme=dark" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorDanielRC&theme=dark"/>
   <br><br>
-
-  <!-- Linha 2: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDanielRC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDanielRC&theme=dark&layout=compact"/>
 </div>
-
 
 ---
 
-## 🌐 Contato
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4169e1)](mailto:SEU_EMAIL_AQUI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169e1)](https://linkedin.com/in/vitor-daniel-a2627326a)
+## 🏆 GitHub Achievements
 
----
-<div align="center"><div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VitorDanielRC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorDanielRC&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
+
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorDanielRC/VitorDanielRC/output/github-contribution-grid-snake-dark.svg">
