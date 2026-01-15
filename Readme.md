@@ -1,5 +1,7 @@
 <!-- Apresentação -->
-<div align="center">
+<div align="center"><div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VitorDanielRC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
   <h2>👋 Olá! Eu sou o <strong>Vitor Daniel</strong></h2>
 
   <p>
