@@ -1,7 +1,4 @@
 <!-- Apresentação -->
-<div align="center"><div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VitorDanielRC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
   <h2>👋 Olá! Eu sou o <strong>Vitor Daniel</strong></h2>
 
   <p>
@@ -86,7 +83,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169e1)](https://linkedin.com/in/vitor-daniel-a2627326a)
 
 ---
-
+<div align="center"><div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VitorDanielRC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorDanielRC/VitorDanielRC/output/github-contribution-grid-snake-dark.svg">
