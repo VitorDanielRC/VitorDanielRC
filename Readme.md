@@ -8,17 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/VitorDanielRC?style=social)](https://github.com/VitorDanielRC)
 [![Profile Views](https://komarev.com/ghpvc/?username=VitorDanielRC&color=blue)](https://github.com/VitorDanielRC)
 
----
 
-## 💼 Perfil Profissional
-
-- Desenvolvimento de sistemas e APIs com **Python e Django**
-- Criação de aplicações seguindo boas práticas de segurança
-- Implementação de autenticação, autorização e controle de permissões
-- Interesse em segurança da informação e prevenção de vulnerabilidades
-- Experiência acadêmica e prática com lógica de programação e backend
-
----
 
 ## 💻 Stack Técnica
 
@@ -46,25 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## 🚀 Projetos em Destaque
-
-### 🔐 API de Tarefas Segura (Django)
-API REST desenvolvida com **Django e Django REST Framework**, com autenticação, permissões e boas práticas de segurança.  
-**Tecnologias:** Python, Django, DRF, SQLite/PostgreSQL
-
-### 📊 Dashboard Web
-Dashboard em HTML, CSS e JavaScript para visualização de dados com gráficos e filtros dinâmicos.  
-**Tecnologias:** JavaScript, HTML, CSS
-
-### 🐍 Projetos Acadêmicos em Python
-Coleção de projetos focados em lógica, estruturas de dados e boas práticas de programação.  
-**Tecnologias:** Python
-
-*(adicione links reais quando quiser)*
-
----
 
 ## 🎓 Formação & Foco
 
