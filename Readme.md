@@ -72,9 +72,18 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+
+  <!-- Linha 1: Stats + Streak -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDanielRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorDanielRC&theme=dark" />
+
+  <br><br>
+
+  <!-- Linha 2: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDanielRC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
 </div>
+
 
 ---
 
