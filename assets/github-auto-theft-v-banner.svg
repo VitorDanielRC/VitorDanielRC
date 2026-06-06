@@ -1,0 +1,43 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="300">
+      <stop stop-color="#070812"/>
+      <stop offset="0.45" stop-color="#171034"/>
+      <stop offset="1" stop-color="#05060b"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <circle cx="1000" cy="62" r="42" fill="#f2dd8a" opacity=".9" filter="url(#glow)"/>
+  <g opacity=".5">
+    <path d="M0 190 C150 145 240 170 365 130 C480 92 625 120 760 75 C890 30 1030 75 1200 35" stroke="#00f5ff" stroke-width="2"/>
+    <path d="M0 230 C185 180 315 215 475 165 C660 105 820 140 1000 95 C1100 70 1160 75 1200 64" stroke="#ff2bd6" stroke-width="2"/>
+  </g>
+  <g opacity=".92">
+    <rect x="45" y="118" width="55" height="120" fill="#0b1025" stroke="#1b315f"/>
+    <rect x="125" y="92" width="70" height="146" fill="#0c132d" stroke="#20376c"/>
+    <rect x="220" y="130" width="50" height="108" fill="#0b1025" stroke="#1b315f"/>
+    <rect x="895" y="105" width="58" height="133" fill="#0b1025" stroke="#1b315f"/>
+    <rect x="975" y="78" width="80" height="160" fill="#0c132d" stroke="#20376c"/>
+    <rect x="1080" y="125" width="55" height="113" fill="#0b1025" stroke="#1b315f"/>
+    <g fill="#00f5ff" opacity=".75">
+      <rect x="62" y="135" width="9" height="12"/><rect x="83" y="158" width="9" height="12"/><rect x="145" y="110" width="10" height="12"/><rect x="169" y="137" width="10" height="12"/><rect x="238" y="150" width="8" height="10"/><rect x="915" y="128" width="8" height="10"/><rect x="1000" y="100" width="10" height="12"/><rect x="1028" y="135" width="10" height="12"/><rect x="1102" y="150" width="8" height="10"/>
+    </g>
+  </g>
+  <rect x="0" y="238" width="1200" height="62" fill="#080a10"/>
+  <path d="M0 260 H1200" stroke="#ff2bd6" stroke-width="4" opacity=".65" filter="url(#glow)"/>
+  <path d="M0 282 H1200" stroke="#00f5ff" stroke-width="2" opacity=".6"/>
+  <g transform="translate(520 215)" filter="url(#glow)">
+    <path d="M28 38 L55 12 H132 L164 38 H180 C194 38 205 49 205 63 V72 H10 V62 C10 49 17 38 28 38Z" fill="#ff1538" stroke="#ff8aa1" stroke-width="2"/>
+    <path d="M70 16 H124 L148 38 H48 L70 16Z" fill="#101d38" stroke="#00f5ff"/>
+    <circle cx="55" cy="75" r="18" fill="#05060a" stroke="#00f5ff" stroke-width="4"/>
+    <circle cx="157" cy="75" r="18" fill="#05060a" stroke="#00f5ff" stroke-width="4"/>
+    <path d="M205 55 L270 42" stroke="#fff8b3" stroke-width="6" opacity=".85">
+      <animate attributeName="opacity" values=".2;.9;.2" dur="1.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="600" y="92" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="54" fill="url(#neon)" filter="url(#glow)">GitHub Auto Theft V</text>
+  <text x="600" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#ffffff" opacity=".9">Welcome to Los Santos, Developer.</text>
+  <text x="600" y="175" text-anchor="middle" font-family="monospace" font-size="18" fill="#39ff14">WASD • MONEY • POLICE CHASE • WANTED LEVEL</text>
+</svg>
