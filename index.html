@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub Auto Theft V</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="game-shell">
+    <section class="hero">
+      <p class="eyebrow">Contribution Graph Mode</p>
+      <h1>GitHub Auto Theft V</h1>
+      <p>Los Santos neon dentro do mapa de contribuições do GitHub.</p>
+    </section>
+
+    <section class="hud">
+      <div>Score: <span id="score">0</span></div>
+      <div>Fuel: <span id="fuel">100</span>%</div>
+      <div>Life: <span id="life">100</span>%</div>
+      <div>Nitro: <span id="nitro">READY</span></div>
+      <div>Wanted: <span id="wanted">☆ ☆ ☆ ☆ ☆</span></div>
+    </section>
+
+    <canvas id="game" width="960" height="260"></canvas>
+
+    <section class="controls">
+      <p><b>Controles:</b> WASD ou setas para mover • Espaço para nitro • Colete dinheiro e fuja da polícia.</p>
+      <p class="welcome">Welcome to Los Santos, Developer.</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
