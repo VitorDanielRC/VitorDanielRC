@@ -103,6 +103,23 @@ Aplicação web para inserir, buscar, remover e organizar elementos em uma árvo
 
 </div>
 
+<details>
+<summary>🐍 Neon contribution snake — animação da rede</summary>
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorDanielRC/VitorDanielRC/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/VitorDanielRC/VitorDanielRC/output/github-contribution-grid-snake.svg" alt="Animação neon das contribuições — disponível após a primeira execução do workflow">
+</picture>
+
+</div>
+
+[Status da geração automática](https://github.com/VitorDanielRC/VitorDanielRC/actions/workflows/snake.yml)
+
+</details>
+
 ## 09 // 🔗 Secure Connection
 
 <div align="center">
